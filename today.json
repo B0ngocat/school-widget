@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T04:12:57-05:00",
+  "generated_at": "2026-11-17T06:56:38-05:00",
   "date": "2026-11-17",
   "window": {
     "from": "2026-11-10",
@@ -55,7 +55,7 @@
       "id": "8626121207",
       "title": "LEQ: CCOT",
       "course": "WH",
-      "type": "homework",
+      "type": "test",
       "due": "2026-11-17T23:59:00-05:00",
       "status": "unknown",
       "isOverdue": false
