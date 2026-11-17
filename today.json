@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T12:12:59-05:00",
+  "generated_at": "2026-11-17T14:42:20-05:00",
   "date": "2026-11-17",
   "window": {
     "from": "2026-11-10",
@@ -16,26 +16,8 @@
       "isOverdue": false
     },
     {
-      "id": "8508182658",
-      "title": "HW: Predicting Products",
-      "course": "Chem",
-      "type": "homework",
-      "due": "2026-11-17T23:59:00-05:00",
-      "status": "not_submitted",
-      "isOverdue": false
-    },
-    {
       "id": "8486278836",
       "title": "Dragster - Design Update",
-      "course": "Eng",
-      "type": "homework",
-      "due": "2026-11-17T23:59:00-05:00",
-      "status": "not_submitted",
-      "isOverdue": false
-    },
-    {
-      "id": "8486278869",
-      "title": "Drill the holes",
       "course": "Eng",
       "type": "homework",
       "due": "2026-11-17T23:59:00-05:00",
@@ -75,6 +57,15 @@
       "course": "Stats",
       "type": "homework",
       "due": "2026-11-18T23:59:00-05:00",
+      "status": "unknown",
+      "isOverdue": false
+    },
+    {
+      "id": "8506177811",
+      "title": "Quiz Sections: 3.1-3.3",
+      "course": "Calc",
+      "type": "quiz",
+      "due": "2026-11-18T23:59:59-05:00",
       "status": "unknown",
       "isOverdue": false
     }
