@@ -1,38 +1,11 @@
 {
-  "generated_at": "2026-11-17T20:13:00-05:00",
-  "date": "2026-11-17",
+  "generated_at": "2026-11-18T00:12:57-05:00",
+  "date": "2026-11-18",
   "window": {
-    "from": "2026-11-10",
-    "to": "2026-11-18"
+    "from": "2026-11-11",
+    "to": "2026-11-19"
   },
   "items": [
-    {
-      "id": "8650750151",
-      "title": "3.1 - 3.3 Review Problems",
-      "course": "Calc",
-      "type": "homework",
-      "due": "2026-11-17T23:59:00-05:00",
-      "status": "unknown",
-      "isOverdue": false
-    },
-    {
-      "id": "8486278836",
-      "title": "Dragster - Design Update",
-      "course": "Eng",
-      "type": "homework",
-      "due": "2026-11-17T23:59:00-05:00",
-      "status": "not_submitted",
-      "isOverdue": false
-    },
-    {
-      "id": "8626121207",
-      "title": "LEQ: CCOT",
-      "course": "WH",
-      "type": "test",
-      "due": "2026-11-17T23:59:00-05:00",
-      "status": "unknown",
-      "isOverdue": false
-    },
     {
       "id": "8486278860",
       "title": "Scroll Saw - Learn how to use it",
@@ -67,6 +40,42 @@
       "type": "quiz",
       "due": "2026-11-18T23:59:59-05:00",
       "status": "unknown",
+      "isOverdue": false
+    },
+    {
+      "id": "8651423792",
+      "title": "QUIZ: U4C7 Balancing, Classifying, Solubility",
+      "course": "Chem",
+      "type": "quiz",
+      "due": "2026-11-19T23:59:00-05:00",
+      "status": "unknown",
+      "isOverdue": false
+    },
+    {
+      "id": "8513674358",
+      "title": "Quiz- Portafolio digital 1",
+      "course": "Spanish",
+      "type": "quiz",
+      "due": "2026-11-19T23:59:00-05:00",
+      "status": "not_submitted",
+      "isOverdue": false
+    },
+    {
+      "id": "ext-8647625448",
+      "title": "Achieve Chapter 5 Practice Test",
+      "course": "Stats",
+      "type": "test",
+      "due": "2026-11-19T23:59:00-05:00",
+      "status": "unknown",
+      "isOverdue": false
+    },
+    {
+      "id": "8642630831",
+      "title": "Unit 5 Theme Notebook",
+      "course": "WH",
+      "type": "homework",
+      "due": "2026-11-19T23:59:00-05:00",
+      "status": "not_submitted",
       "isOverdue": false
     }
   ]
