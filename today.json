@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-11-18T08:12:58-05:00",
+  "generated_at": "2026-11-18T12:12:58-05:00",
   "date": "2026-11-18",
   "window": {
     "from": "2026-11-11",
     "to": "2026-11-19"
   },
   "items": [
+    {
+      "id": "8656694126",
+      "title": "NOTES from EdPuzzle (DR Reactions: Acid Base, Gas Evolution, Precipitate)",
+      "course": "Chem",
+      "type": "homework",
+      "due": "2026-11-18T23:59:00-05:00",
+      "status": "not_submitted",
+      "isOverdue": false
+    },
+    {
+      "id": "ext-8656690955",
+      "title": "EdPuzzle: DR Reactions: Acid Base , Gas Evolution, Precipitation",
+      "course": "Chem",
+      "type": "homework",
+      "due": "2026-11-18T23:59:00-05:00",
+      "status": "unknown",
+      "isOverdue": false
+    },
     {
       "id": "8486278860",
       "title": "Scroll Saw - Learn how to use it",
