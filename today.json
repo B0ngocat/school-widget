@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T16:12:59-05:00",
+  "generated_at": "2026-11-18T20:12:57-05:00",
   "date": "2026-11-18",
   "window": {
     "from": "2026-11-11",
@@ -53,10 +53,10 @@
     },
     {
       "id": "8506177811",
-      "title": "Quiz Sections: 3.1-3.3",
+      "title": "Quiz Sections: 3.1-3.3 (Virtual Quiz Thursday)",
       "course": "Calc",
       "type": "quiz",
-      "due": "2026-11-18T23:59:59-05:00",
+      "due": "2026-11-19T23:59:00-05:00",
       "status": "unknown",
       "isOverdue": false
     },
