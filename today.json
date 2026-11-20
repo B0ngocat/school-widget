@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T16:12:58-05:00",
+  "generated_at": "2026-11-19T20:12:59-05:00",
   "date": "2026-11-19",
   "window": {
     "from": "2026-11-12",
@@ -65,15 +65,6 @@
       "title": "TEST Probability",
       "course": "Stats",
       "type": "test",
-      "due": "2026-11-20T23:59:00-05:00",
-      "status": "unknown",
-      "isOverdue": false
-    },
-    {
-      "id": "8642633202",
-      "title": "Quiz: U5 PK",
-      "course": "WH",
-      "type": "quiz",
       "due": "2026-11-20T23:59:00-05:00",
       "status": "unknown",
       "isOverdue": false
