@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T04:12:54-05:00",
+  "generated_at": "2026-11-20T08:12:54-05:00",
   "date": "2026-11-20",
   "window": {
     "from": "2026-11-13",
@@ -16,12 +16,30 @@
       "isOverdue": true
     },
     {
+      "id": "ext-8659191540",
+      "title": "3.4  Determining Concavity of Functions over Their Domains",
+      "course": "Calc",
+      "type": "homework",
+      "due": "2026-11-20T23:59:00-05:00",
+      "status": "unknown",
+      "isOverdue": false
+    },
+    {
       "id": "8486278876",
       "title": "Cut your dragster",
       "course": "Eng",
       "type": "homework",
       "due": "2026-11-20T23:59:00-05:00",
       "status": "not_submitted",
+      "isOverdue": false
+    },
+    {
+      "id": "8659220557",
+      "title": "Dragster Shark Tank",
+      "course": "Eng",
+      "type": "homework",
+      "due": "2026-11-20T23:59:00-05:00",
+      "status": "unknown",
       "isOverdue": false
     },
     {
