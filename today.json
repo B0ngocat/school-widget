@@ -1,29 +1,11 @@
 {
-  "generated_at": "2026-11-19T20:12:59-05:00",
-  "date": "2026-11-19",
+  "generated_at": "2026-11-20T04:12:54-05:00",
+  "date": "2026-11-20",
   "window": {
-    "from": "2026-11-12",
-    "to": "2026-11-20"
+    "from": "2026-11-13",
+    "to": "2026-11-21"
   },
   "items": [
-    {
-      "id": "8506177811",
-      "title": "Quiz Sections: 3.1-3.3 (Virtual Quiz Thursday)",
-      "course": "Calc",
-      "type": "quiz",
-      "due": "2026-11-19T23:59:00-05:00",
-      "status": "unknown",
-      "isOverdue": false
-    },
-    {
-      "id": "8513674358",
-      "title": "Quiz- Portafolio digital 1",
-      "course": "Spanish",
-      "type": "quiz",
-      "due": "2026-11-19T23:59:00-05:00",
-      "status": "not_submitted",
-      "isOverdue": false
-    },
     {
       "id": "8658370868",
       "title": "Chapter 5 Formative Practice Test",
@@ -31,16 +13,7 @@
       "type": "test",
       "due": "2026-11-19T23:59:00-05:00",
       "status": "not_submitted",
-      "isOverdue": false
-    },
-    {
-      "id": "ext-8647625448",
-      "title": "Achieve Chapter 5 Practice Test",
-      "course": "Stats",
-      "type": "test",
-      "due": "2026-11-19T23:59:00-05:00",
-      "status": "unknown",
-      "isOverdue": false
+      "isOverdue": true
     },
     {
       "id": "8486278876",
