@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:12:54-05:00",
+  "generated_at": "2026-11-20T12:12:58-05:00",
   "date": "2026-11-20",
   "window": {
     "from": "2026-11-13",
@@ -49,15 +49,6 @@
       "type": "homework",
       "due": "2026-11-20T23:59:00-05:00",
       "status": "not_submitted",
-      "isOverdue": false
-    },
-    {
-      "id": "8503224701",
-      "title": "TEST Probability",
-      "course": "Stats",
-      "type": "test",
-      "due": "2026-11-20T23:59:00-05:00",
-      "status": "unknown",
       "isOverdue": false
     }
   ]
