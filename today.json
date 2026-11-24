@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:39:19-05:00",
+  "generated_at": "2026-11-23T21:39:58-05:00",
   "date": "2026-11-23",
   "window": {
     "from": "2026-11-16",
@@ -16,39 +16,12 @@
       "isOverdue": true
     },
     {
-      "id": "8660939244",
-      "title": "3.4 HW1",
-      "course": "Calc",
-      "type": "homework",
-      "due": "2026-11-23T23:59:00-05:00",
-      "status": "not_submitted",
-      "isOverdue": false
-    },
-    {
       "id": "8651425307",
       "title": "TEST: U4C7 Balancing, Classifying, Solubility",
       "course": "Chem",
       "type": "test",
       "due": "2026-11-23T23:59:00-05:00",
       "status": "unknown",
-      "isOverdue": false
-    },
-    {
-      "id": "ext-8660863308",
-      "title": "EdPuzzle: Limiting Reactant and Excess Reactant",
-      "course": "Chem",
-      "type": "homework",
-      "due": "2026-11-23T23:59:00-05:00",
-      "status": "unknown",
-      "isOverdue": false
-    },
-    {
-      "id": "8660640425",
-      "title": "Unit 5 Review",
-      "course": "Stats",
-      "type": "homework",
-      "due": "2026-11-23T23:59:00-05:00",
-      "status": "not_submitted",
       "isOverdue": false
     },
     {
