@@ -1,29 +1,11 @@
 {
-  "generated_at": "2026-11-23T21:39:58-05:00",
-  "date": "2026-11-23",
+  "generated_at": "2026-11-24T05:39:20-05:00",
+  "date": "2026-11-24",
   "window": {
-    "from": "2026-11-16",
-    "to": "2026-11-24"
+    "from": "2026-11-17",
+    "to": "2026-11-25"
   },
   "items": [
-    {
-      "id": "8641928002",
-      "title": "Comparative Thinking Hexagonal Thinking Project",
-      "course": "English",
-      "type": "project",
-      "due": "2026-11-23T12:45:00-05:00",
-      "status": "unknown",
-      "isOverdue": true
-    },
-    {
-      "id": "8651425307",
-      "title": "TEST: U4C7 Balancing, Classifying, Solubility",
-      "course": "Chem",
-      "type": "test",
-      "due": "2026-11-23T23:59:00-05:00",
-      "status": "unknown",
-      "isOverdue": false
-    },
     {
       "id": "8642633202",
       "title": "Quiz: U5 PK",
@@ -31,6 +13,15 @@
       "type": "quiz",
       "due": "2026-11-24T13:59:00-05:00",
       "status": "unknown",
+      "isOverdue": false
+    },
+    {
+      "id": "8661643440",
+      "title": "3.4 HW2",
+      "course": "Calc",
+      "type": "homework",
+      "due": "2026-11-24T23:59:00-05:00",
+      "status": "not_submitted",
       "isOverdue": false
     },
     {
