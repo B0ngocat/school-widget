@@ -1,73 +1,9 @@
 {
-  "generated_at": "2026-11-24T21:39:22-05:00",
-  "date": "2026-11-24",
+  "generated_at": "2026-11-25T05:39:17-05:00",
+  "date": "2026-11-25",
   "window": {
-    "from": "2026-11-17",
-    "to": "2026-11-25"
+    "from": "2026-11-18",
+    "to": "2026-11-26"
   },
-  "items": [
-    {
-      "id": "8642633202",
-      "title": "Quiz: U5 PK",
-      "course": "WH",
-      "type": "quiz",
-      "due": "2026-11-24T13:59:00-05:00",
-      "status": "unknown",
-      "isOverdue": true
-    },
-    {
-      "id": "8661643440",
-      "title": "3.4 HW2 ( Not due until Sunday)",
-      "course": "Calc",
-      "type": "homework",
-      "due": "2026-11-24T23:59:00-05:00",
-      "status": "not_submitted",
-      "isOverdue": false
-    },
-    {
-      "id": "8486278860",
-      "title": "Scroll Saw - Learn how to use it",
-      "course": "Eng",
-      "type": "homework",
-      "due": "2026-11-24T23:59:00-05:00",
-      "status": "unknown",
-      "isOverdue": false
-    },
-    {
-      "id": "8654973286",
-      "title": "Sir Gawain & the Green Knight Adaptation Analysis",
-      "course": "English",
-      "type": "homework",
-      "due": "2026-11-24T23:59:00-05:00",
-      "status": "unknown",
-      "isOverdue": false
-    },
-    {
-      "id": "ext-8657640710",
-      "title": "Intro to the Comparative Analysis Essay",
-      "course": "English",
-      "type": "homework",
-      "due": "2026-11-24T23:59:00-05:00",
-      "status": "unknown",
-      "isOverdue": false
-    },
-    {
-      "id": "ext-8654987498",
-      "title": "Nearpod Student Paced - Character Adaptations",
-      "course": "English",
-      "type": "homework",
-      "due": "2026-11-24T23:59:00-05:00",
-      "status": "unknown",
-      "isOverdue": false
-    },
-    {
-      "id": "8503224701",
-      "title": "TEST Probability",
-      "course": "Stats",
-      "type": "test",
-      "due": "2026-11-24T23:59:00-05:00",
-      "status": "unknown",
-      "isOverdue": false
-    }
-  ]
+  "items": []
 }
